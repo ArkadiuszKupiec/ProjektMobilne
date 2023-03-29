@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PlacowkaMedycznaJava</string>
+    <string name="username">Pesel / Nazwa użytkownika</string>
+    <string name="Login">Logowanie</string>
+    <string name="password">Hasło</string>
+    <string name="log_in">Zaloguj</string>
+    <string name="redirect_register">Zarejestruj konto tutaj</string>
+    <string name="settings">Ustawienia</string>
+    <string name="logout">Wyloguj</string>
+    <string name="appointments">Wolne Terminy</string>
+    <string name="userpanel">Panel Pacjenta</string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+    <string name="personel_all_choice">Wszyscy</string>
+    <string name="speciality_all_choice">Wszystkie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_button">Szukaj</string>
+    <string name="Registration">Rejestracja</string>
+    <string name="redirect_login">Masz już konto? Zaloguj się tutaj</string>
+    <string name="username_register">Nazwa użytkownika</string>
+    <string name="first_name_register">Imię</string>
+    <string name="surname_register">Nazwisko</string>
+    <string name="pesel_register">Pesel</string>
+    <string name="phone_register">Numer telefonu</string>
+    <string name="city_register">Miasto</string>
+    <string name="city_code_register">Kod pocztowy np. \"33-230\"</string>
+    <string name="street_register">Ulica</string>
+    <string name="street_number_register">Numer domu/mieszkania</string>
+    <string name="password_repeat">Powtórz hasło</string>
+    <string name="house_number_register">Numer domu/mieszkania</string>
+    <string name="register">Zarejestruj</string>
+    <string name="account_settings">Ustawienia konta</string>
+    <string name="personal_settings">Dane osobiste</string>
+</resources>
